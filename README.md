@@ -47,6 +47,19 @@ VITE_API_TOKEN="YWRtaW5AYWRtaW4uY29t"
 
 ```
 
+Instalar los paquetes de node modules:
+
+```
+npm install
+```
+
+Copilar el proyecto.
+
+```
+npm run build
+
+```
+
 Arrancar el poyecto con artisan
 
 ```
